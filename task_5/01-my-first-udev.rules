@@ -1,0 +1,4 @@
+
+
+ACTION=="add", RUN+="/lib/udev/atclib.sh"
+
